@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --el-font-family: 'Arial', 'Microsoft YaHei', sans-serif; /* 替换为你的字体 */
+    --el-text-color: #000000; /* 修改全局字体颜色 */
+}
